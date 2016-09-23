@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* original source: https://samurails.com/gems/jbuilder/
